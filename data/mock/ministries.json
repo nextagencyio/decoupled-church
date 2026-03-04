@@ -1,0 +1,189 @@
+{
+  "data": {
+    "nodeMinistries": {
+      "__typename": "NodeMinistryConnection",
+      "nodes": [
+        {
+          "__typename": "NodeMinistry",
+          "id": "ministry-youth",
+          "title": "Youth Ministry",
+          "path": "/ministries/youth-ministry",
+          "body": {
+            "processed": "<p>Our Youth Ministry is a vibrant community for students in grades 6-12. Through weekly gatherings, retreats, and mission trips, we help young people build a strong foundation of faith while having fun and making lifelong friendships.</p><h2>What We Offer</h2><ul><li>Wednesday night youth group</li><li>Summer camp and retreats</li><li>Service projects and mission trips</li><li>Small group Bible studies</li></ul>",
+            "summary": "Our Youth Ministry is a vibrant community for students in grades 6-12. Through weekly gatherings, retreats, and mission trips, we help young people build a strong foundation of faith while having fun "
+          },
+          "ministryArea": [
+            {
+              "id": "youth-children",
+              "name": "youth-children"
+            }
+          ],
+          "leaderName": "Pastor Mike Torres",
+          "meetingSchedule": "Wednesdays at 6:30 PM",
+          "location": "Youth Center",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+            "alt": "Youth Ministry",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeMinistry",
+          "id": "ministry-worship",
+          "title": "Worship Team",
+          "path": "/ministries/worship-team",
+          "body": {
+            "processed": "<p>Our Worship Team leads the congregation in praise and worship each Sunday. Whether you sing, play an instrument, or run sound and media, there is a place for you on our team. We believe worship is more than music; it is a lifestyle of devotion.</p><h2>How to Get Involved</h2><ul><li>Vocal team auditions held quarterly</li><li>Instrumentalists welcome (guitar, bass, keys, drums)</li><li>Sound and media tech training available</li><li>Weekly rehearsals on Thursday evenings</li></ul>",
+            "summary": "Our Worship Team leads the congregation in praise and worship each Sunday. Whether you sing, play an instrument, or run sound and media, there is a place for you on our team. We believe worship is mor"
+          },
+          "ministryArea": [
+            {
+              "id": "worship-music",
+              "name": "worship-music"
+            }
+          ],
+          "leaderName": "Rachel Adams",
+          "meetingSchedule": "Thursdays at 7:00 PM (rehearsal)",
+          "location": "Main Sanctuary",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800&q=80",
+            "alt": "Worship Team",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeMinistry",
+          "id": "ministry-outreach",
+          "title": "Community Outreach",
+          "path": "/ministries/community-outreach",
+          "body": {
+            "processed": "<p>Our Community Outreach ministry is dedicated to serving those in need in our local community and beyond. From food pantry operations to homeless shelter support, we strive to be the hands and feet of Christ.</p><h2>Current Programs</h2><ul><li>Weekly food pantry (Saturdays 9-12)</li><li>Monthly homeless shelter meal service</li><li>Back-to-school supply drive</li><li>Holiday gift program for families in need</li></ul>",
+            "summary": "Our Community Outreach ministry is dedicated to serving those in need in our local community and beyond. From food pantry operations to homeless shelter support, we strive to be the hands and feet of "
+          },
+          "ministryArea": [
+            {
+              "id": "community-outreach",
+              "name": "community-outreach"
+            }
+          ],
+          "leaderName": "David & Maria Gonzalez",
+          "meetingSchedule": "Saturdays at 9:00 AM",
+          "location": "Fellowship Hall",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1593113630400-ea4288922497?w=800&q=80",
+            "alt": "Community Outreach",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1593113630400-ea4288922497?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1593113630400-ea4288922497?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1593113630400-ea4288922497?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeMinistry",
+          "id": "ministry-small-groups",
+          "title": "Small Groups",
+          "path": "/ministries/small-groups",
+          "body": {
+            "processed": "<p>Small Groups are the heartbeat of our church family. These intimate gatherings of 8-12 people meet weekly in homes throughout the community for Bible study, prayer, and fellowship. It is where real relationships are built and faith grows deep.</p><h2>Group Options</h2><ul><li>Couples groups</li><li>Men's and women's groups</li><li>Young adults (18-30)</li><li>Mixed groups for all ages</li></ul>",
+            "summary": "Small Groups are the heartbeat of our church family. These intimate gatherings of 8-12 people meet weekly in homes throughout the community for Bible study, prayer, and fellowship. It is where real re"
+          },
+          "ministryArea": [
+            {
+              "id": "small-groups",
+              "name": "small-groups"
+            }
+          ],
+          "leaderName": "Elder Board",
+          "meetingSchedule": "Various days and times",
+          "location": "Various homes throughout the community",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=800&q=80",
+            "alt": "Small Groups",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

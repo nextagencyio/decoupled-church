@@ -1,0 +1,195 @@
+{
+  "data": {
+    "nodeSermons": {
+      "__typename": "NodeSermonConnection",
+      "nodes": [
+        {
+          "__typename": "NodeSermon",
+          "id": "sermon-faith-mountains",
+          "title": "Faith That Moves Mountains",
+          "path": "/sermons/faith-that-moves-mountains",
+          "body": {
+            "processed": "<p>In this powerful message, Pastor James explores what it truly means to have faith that can move mountains. Drawing from Matthew 17:20, we discover that faith is not about the size of our belief but the size of our God.</p><h2>Key Points</h2><ul><li>Understanding mustard seed faith</li><li>Overcoming doubt through prayer</li><li>Trusting God's timing and plan</li><li>Living out bold faith daily</li></ul>",
+            "summary": "In this powerful message, Pastor James explores what it truly means to have faith that can move mountains. Drawing from Matthew 17:20, we discover that faith is not about the size of our belief but th"
+          },
+          "sermonSeries": [
+            {
+              "id": "faith-foundations",
+              "name": "faith-foundations"
+            }
+          ],
+          "sermonDate": {
+            "timestamp": 1772380800
+          },
+          "speaker": "Pastor James Mitchell",
+          "videoUrl": "https://www.youtube.com/watch?v=example1",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=800&q=80",
+            "alt": "Faith That Moves Mountains",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeSermon",
+          "id": "sermon-grace-sufficient",
+          "title": "Grace Is Sufficient",
+          "path": "/sermons/grace-is-sufficient",
+          "body": {
+            "processed": "<p>Pastor Sarah shares a heartfelt message about the sufficiency of God's grace in every season of life. Based on 2 Corinthians 12:9, this sermon reminds us that God's power is made perfect in our weakness.</p><h2>Key Points</h2><ul><li>What grace really means</li><li>Finding strength in weakness</li><li>Grace for every situation</li><li>Extending grace to others</li></ul>",
+            "summary": "Pastor Sarah shares a heartfelt message about the sufficiency of God's grace in every season of life. Based on 2 Corinthians 12:9, this sermon reminds us that God's power is made perfect in our weakne"
+          },
+          "sermonSeries": [
+            {
+              "id": "walking-in-grace",
+              "name": "walking-in-grace"
+            }
+          ],
+          "sermonDate": {
+            "timestamp": 1771776000
+          },
+          "speaker": "Pastor Sarah Chen",
+          "videoUrl": "https://www.youtube.com/watch?v=example2",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
+            "alt": "Grace Is Sufficient",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeSermon",
+          "id": "sermon-love-action",
+          "title": "Love in Action",
+          "path": "/sermons/love-in-action",
+          "body": {
+            "processed": "<p>What does it look like to put our faith into action through love? In this sermon, Pastor James challenges us to move beyond words and demonstrate God's love through tangible service to our neighbors and community.</p><h2>Key Points</h2><ul><li>Love as a verb, not just a feeling</li><li>Serving our community with purpose</li><li>Breaking down barriers through compassion</li><li>Building a culture of generosity</li></ul>",
+            "summary": "What does it look like to put our faith into action through love? In this sermon, Pastor James challenges us to move beyond words and demonstrate God's love through tangible service to our neighbors a"
+          },
+          "sermonSeries": [
+            {
+              "id": "community-service",
+              "name": "community-service"
+            }
+          ],
+          "sermonDate": {
+            "timestamp": 1771171200
+          },
+          "speaker": "Pastor James Mitchell",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=800&q=80",
+            "alt": "Love in Action",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeSermon",
+          "id": "sermon-hope-darkness",
+          "title": "Hope in the Darkness",
+          "path": "/sermons/hope-in-the-darkness",
+          "body": {
+            "processed": "<p>When life feels overwhelming and darkness surrounds us, where do we find hope? Pastor Sarah walks us through Psalm 23 and reminds us that even in the darkest valleys, God is with us and His light will guide our path.</p><h2>Key Points</h2><ul><li>The valley is not the destination</li><li>God's presence in suffering</li><li>Hope as an anchor for the soul</li><li>Supporting each other through trials</li></ul>",
+            "summary": "When life feels overwhelming and darkness surrounds us, where do we find hope? Pastor Sarah walks us through Psalm 23 and reminds us that even in the darkest valleys, God is with us and His light will"
+          },
+          "sermonSeries": [
+            {
+              "id": "faith-foundations",
+              "name": "faith-foundations"
+            }
+          ],
+          "sermonDate": {
+            "timestamp": 1770566400
+          },
+          "speaker": "Pastor Sarah Chen",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800&q=80",
+            "alt": "Hope in the Darkness",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

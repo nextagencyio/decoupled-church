@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nodeHomepages": {
+      "__typename": "NodeHomepageConnection",
+      "nodes": [
+        {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to Grace Community Church",
+          "path": "/homepage",
+          "heroTitle": "A Place to Belong",
+          "heroSubtitle": "Growing Together in Faith and Love",
+          "heroDescription": {
+            "processed": "<p>Welcome home. At Grace Community Church, you will find a warm, welcoming community where everyone is invited to experience God's love, grow in faith, and make a difference in the world.</p>",
+            "summary": "Welcome home. At Grace Community Church, you will find a warm, welcoming community where everyone is invited to experience God's love, grow in faith, and make a difference in the world."
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-members",
+              "title": "",
+              "number": "1,200+",
+              "label": "Church Members"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-ministries",
+              "title": "",
+              "number": "25+",
+              "label": "Active Ministries"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-years",
+              "title": "",
+              "number": "75+",
+              "label": "Years of Service"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-outreach",
+              "title": "",
+              "number": "5,000+",
+              "label": "Lives Touched Annually"
+            }
+          ],
+          "featuredSermonsTitle": "Recent Sermons",
+          "ctaTitle": "Plan Your Visit",
+          "ctaDescription": {
+            "processed": "<p>We would love to meet you! Join us this Sunday for worship. Service times are 9:00 AM and 11:00 AM.</p>",
+            "summary": "We would love to meet you! Join us this Sunday for worship. Service times are 9:00 AM and 11:00 AM."
+          },
+          "ctaPrimary": "Plan Your Visit",
+          "ctaSecondary": "Contact Us"
+        }
+      ]
+    }
+  }
+}

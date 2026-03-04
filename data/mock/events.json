@@ -1,0 +1,159 @@
+{
+  "data": {
+    "nodeEvents": {
+      "__typename": "NodeEventConnection",
+      "nodes": [
+        {
+          "__typename": "NodeEvent",
+          "id": "event-easter",
+          "title": "Easter Celebration Service",
+          "path": "/events/easter-celebration",
+          "body": {
+            "processed": "<p>Join us for a special Easter celebration as we rejoice in the resurrection of Jesus Christ. This service features live music, a powerful message of hope, and activities for the whole family.</p><h2>Schedule</h2><ul><li>7:00 AM - Sunrise Service (outdoor amphitheater)</li><li>9:00 AM - Traditional Easter Service</li><li>11:00 AM - Contemporary Easter Service</li><li>10:00 AM - Easter Egg Hunt (children ages 2-10)</li></ul>",
+            "summary": "Join us for a special Easter celebration as we rejoice in the resurrection of Jesus Christ. This service features live music, a powerful message of hope, and activities for the whole family.Schedule7:"
+          },
+          "eventDate": {
+            "timestamp": 1775390400
+          },
+          "endDate": {
+            "timestamp": 1775410200
+          },
+          "location": "Main Sanctuary & Church Grounds",
+          "eventType": [
+            {
+              "id": "worship-service",
+              "name": "worship-service"
+            }
+          ],
+          "registrationUrl": "https://gracecommunity.church/easter",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1457282367193-e3b79e38f207?w=800&q=80",
+            "alt": "Easter Celebration Service",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1457282367193-e3b79e38f207?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1457282367193-e3b79e38f207?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1457282367193-e3b79e38f207?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-vbs",
+          "title": "Vacation Bible School 2026",
+          "path": "/events/vacation-bible-school",
+          "body": {
+            "processed": "<p>An exciting week of Bible stories, games, crafts, and music for children ages 4-12. This year's theme, 'Explorers of Faith,' takes kids on an adventure through the Bible's greatest stories of courage and trust.</p><p>Registration is free and includes snacks, a t-shirt, and a take-home craft kit.</p>",
+            "summary": "An exciting week of Bible stories, games, crafts, and music for children ages 4-12. This year's theme, 'Explorers of Faith,' takes kids on an adventure through the Bible's greatest stories of courage "
+          },
+          "eventDate": {
+            "timestamp": 1781532000
+          },
+          "endDate": {
+            "timestamp": 1781888400
+          },
+          "location": "Children's Ministry Wing",
+          "eventType": [
+            {
+              "id": "youth-event",
+              "name": "youth-event"
+            }
+          ],
+          "registrationUrl": "https://gracecommunity.church/vbs",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80",
+            "alt": "Vacation Bible School 2026",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-fundraiser",
+          "title": "Community Dinner & Fundraiser",
+          "path": "/events/community-dinner-fundraiser",
+          "body": {
+            "processed": "<p>Join us for an evening of fellowship, delicious food, and giving back. This annual fundraiser supports our mission partners both locally and internationally. Enjoy a catered dinner, live music, and hear stories of how your generosity changes lives.</p><p>Tickets are $25 per person or $80 for a family of four.</p>",
+            "summary": "Join us for an evening of fellowship, delicious food, and giving back. This annual fundraiser supports our mission partners both locally and internationally. Enjoy a catered dinner, live music, and he"
+          },
+          "eventDate": {
+            "timestamp": 1778454000
+          },
+          "endDate": {
+            "timestamp": 1778464800
+          },
+          "location": "Fellowship Hall",
+          "eventType": [
+            {
+              "id": "fundraiser",
+              "name": "fundraiser"
+            }
+          ],
+          "registrationUrl": "https://gracecommunity.church/dinner",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+            "alt": "Community Dinner & Fundraiser",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

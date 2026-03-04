@@ -1,0 +1,824 @@
+{
+  "/homepage": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to Grace Community Church",
+          "path": "/homepage",
+          "heroTitle": "A Place to Belong",
+          "heroSubtitle": "Growing Together in Faith and Love",
+          "heroDescription": {
+            "processed": "<p>Welcome home. At Grace Community Church, you will find a warm, welcoming community where everyone is invited to experience God's love, grow in faith, and make a difference in the world.</p>",
+            "summary": "Welcome home. At Grace Community Church, you will find a warm, welcoming community where everyone is invited to experience God's love, grow in faith, and make a difference in the world."
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-members",
+              "title": "",
+              "number": "1,200+",
+              "label": "Church Members"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-ministries",
+              "title": "",
+              "number": "25+",
+              "label": "Active Ministries"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-years",
+              "title": "",
+              "number": "75+",
+              "label": "Years of Service"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-outreach",
+              "title": "",
+              "number": "5,000+",
+              "label": "Lives Touched Annually"
+            }
+          ],
+          "featuredSermonsTitle": "Recent Sermons",
+          "ctaTitle": "Plan Your Visit",
+          "ctaDescription": {
+            "processed": "<p>We would love to meet you! Join us this Sunday for worship. Service times are 9:00 AM and 11:00 AM.</p>",
+            "summary": "We would love to meet you! Join us this Sunday for worship. Service times are 9:00 AM and 11:00 AM."
+          },
+          "ctaPrimary": "Plan Your Visit",
+          "ctaSecondary": "Contact Us"
+        }
+      }
+    }
+  },
+  "/sermons/faith-that-moves-mountains": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeSermon",
+          "id": "sermon-faith-mountains",
+          "title": "Faith That Moves Mountains",
+          "path": "/sermons/faith-that-moves-mountains",
+          "body": {
+            "processed": "<p>In this powerful message, Pastor James explores what it truly means to have faith that can move mountains. Drawing from Matthew 17:20, we discover that faith is not about the size of our belief but the size of our God.</p><h2>Key Points</h2><ul><li>Understanding mustard seed faith</li><li>Overcoming doubt through prayer</li><li>Trusting God's timing and plan</li><li>Living out bold faith daily</li></ul>",
+            "summary": "In this powerful message, Pastor James explores what it truly means to have faith that can move mountains. Drawing from Matthew 17:20, we discover that faith is not about the size of our belief but th"
+          },
+          "sermonSeries": [
+            {
+              "id": "faith-foundations",
+              "name": "faith-foundations"
+            }
+          ],
+          "sermonDate": {
+            "timestamp": 1772380800
+          },
+          "speaker": "Pastor James Mitchell",
+          "videoUrl": "https://www.youtube.com/watch?v=example1",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=800&q=80",
+            "alt": "Faith That Moves Mountains",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1438232992991-995b7058bbb3?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/sermons/grace-is-sufficient": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeSermon",
+          "id": "sermon-grace-sufficient",
+          "title": "Grace Is Sufficient",
+          "path": "/sermons/grace-is-sufficient",
+          "body": {
+            "processed": "<p>Pastor Sarah shares a heartfelt message about the sufficiency of God's grace in every season of life. Based on 2 Corinthians 12:9, this sermon reminds us that God's power is made perfect in our weakness.</p><h2>Key Points</h2><ul><li>What grace really means</li><li>Finding strength in weakness</li><li>Grace for every situation</li><li>Extending grace to others</li></ul>",
+            "summary": "Pastor Sarah shares a heartfelt message about the sufficiency of God's grace in every season of life. Based on 2 Corinthians 12:9, this sermon reminds us that God's power is made perfect in our weakne"
+          },
+          "sermonSeries": [
+            {
+              "id": "walking-in-grace",
+              "name": "walking-in-grace"
+            }
+          ],
+          "sermonDate": {
+            "timestamp": 1771776000
+          },
+          "speaker": "Pastor Sarah Chen",
+          "videoUrl": "https://www.youtube.com/watch?v=example2",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
+            "alt": "Grace Is Sufficient",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/sermons/love-in-action": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeSermon",
+          "id": "sermon-love-action",
+          "title": "Love in Action",
+          "path": "/sermons/love-in-action",
+          "body": {
+            "processed": "<p>What does it look like to put our faith into action through love? In this sermon, Pastor James challenges us to move beyond words and demonstrate God's love through tangible service to our neighbors and community.</p><h2>Key Points</h2><ul><li>Love as a verb, not just a feeling</li><li>Serving our community with purpose</li><li>Breaking down barriers through compassion</li><li>Building a culture of generosity</li></ul>",
+            "summary": "What does it look like to put our faith into action through love? In this sermon, Pastor James challenges us to move beyond words and demonstrate God's love through tangible service to our neighbors a"
+          },
+          "sermonSeries": [
+            {
+              "id": "community-service",
+              "name": "community-service"
+            }
+          ],
+          "sermonDate": {
+            "timestamp": 1771171200
+          },
+          "speaker": "Pastor James Mitchell",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=800&q=80",
+            "alt": "Love in Action",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/sermons/hope-in-the-darkness": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeSermon",
+          "id": "sermon-hope-darkness",
+          "title": "Hope in the Darkness",
+          "path": "/sermons/hope-in-the-darkness",
+          "body": {
+            "processed": "<p>When life feels overwhelming and darkness surrounds us, where do we find hope? Pastor Sarah walks us through Psalm 23 and reminds us that even in the darkest valleys, God is with us and His light will guide our path.</p><h2>Key Points</h2><ul><li>The valley is not the destination</li><li>God's presence in suffering</li><li>Hope as an anchor for the soul</li><li>Supporting each other through trials</li></ul>",
+            "summary": "When life feels overwhelming and darkness surrounds us, where do we find hope? Pastor Sarah walks us through Psalm 23 and reminds us that even in the darkest valleys, God is with us and His light will"
+          },
+          "sermonSeries": [
+            {
+              "id": "faith-foundations",
+              "name": "faith-foundations"
+            }
+          ],
+          "sermonDate": {
+            "timestamp": 1770566400
+          },
+          "speaker": "Pastor Sarah Chen",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800&q=80",
+            "alt": "Hope in the Darkness",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507692049790-de58290a4334?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/ministries/youth-ministry": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeMinistry",
+          "id": "ministry-youth",
+          "title": "Youth Ministry",
+          "path": "/ministries/youth-ministry",
+          "body": {
+            "processed": "<p>Our Youth Ministry is a vibrant community for students in grades 6-12. Through weekly gatherings, retreats, and mission trips, we help young people build a strong foundation of faith while having fun and making lifelong friendships.</p><h2>What We Offer</h2><ul><li>Wednesday night youth group</li><li>Summer camp and retreats</li><li>Service projects and mission trips</li><li>Small group Bible studies</li></ul>",
+            "summary": "Our Youth Ministry is a vibrant community for students in grades 6-12. Through weekly gatherings, retreats, and mission trips, we help young people build a strong foundation of faith while having fun "
+          },
+          "ministryArea": [
+            {
+              "id": "youth-children",
+              "name": "youth-children"
+            }
+          ],
+          "leaderName": "Pastor Mike Torres",
+          "meetingSchedule": "Wednesdays at 6:30 PM",
+          "location": "Youth Center",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+            "alt": "Youth Ministry",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/ministries/worship-team": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeMinistry",
+          "id": "ministry-worship",
+          "title": "Worship Team",
+          "path": "/ministries/worship-team",
+          "body": {
+            "processed": "<p>Our Worship Team leads the congregation in praise and worship each Sunday. Whether you sing, play an instrument, or run sound and media, there is a place for you on our team. We believe worship is more than music; it is a lifestyle of devotion.</p><h2>How to Get Involved</h2><ul><li>Vocal team auditions held quarterly</li><li>Instrumentalists welcome (guitar, bass, keys, drums)</li><li>Sound and media tech training available</li><li>Weekly rehearsals on Thursday evenings</li></ul>",
+            "summary": "Our Worship Team leads the congregation in praise and worship each Sunday. Whether you sing, play an instrument, or run sound and media, there is a place for you on our team. We believe worship is mor"
+          },
+          "ministryArea": [
+            {
+              "id": "worship-music",
+              "name": "worship-music"
+            }
+          ],
+          "leaderName": "Rachel Adams",
+          "meetingSchedule": "Thursdays at 7:00 PM (rehearsal)",
+          "location": "Main Sanctuary",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800&q=80",
+            "alt": "Worship Team",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/ministries/community-outreach": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeMinistry",
+          "id": "ministry-outreach",
+          "title": "Community Outreach",
+          "path": "/ministries/community-outreach",
+          "body": {
+            "processed": "<p>Our Community Outreach ministry is dedicated to serving those in need in our local community and beyond. From food pantry operations to homeless shelter support, we strive to be the hands and feet of Christ.</p><h2>Current Programs</h2><ul><li>Weekly food pantry (Saturdays 9-12)</li><li>Monthly homeless shelter meal service</li><li>Back-to-school supply drive</li><li>Holiday gift program for families in need</li></ul>",
+            "summary": "Our Community Outreach ministry is dedicated to serving those in need in our local community and beyond. From food pantry operations to homeless shelter support, we strive to be the hands and feet of "
+          },
+          "ministryArea": [
+            {
+              "id": "community-outreach",
+              "name": "community-outreach"
+            }
+          ],
+          "leaderName": "David & Maria Gonzalez",
+          "meetingSchedule": "Saturdays at 9:00 AM",
+          "location": "Fellowship Hall",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1593113630400-ea4288922497?w=800&q=80",
+            "alt": "Community Outreach",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1593113630400-ea4288922497?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1593113630400-ea4288922497?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1593113630400-ea4288922497?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/ministries/small-groups": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeMinistry",
+          "id": "ministry-small-groups",
+          "title": "Small Groups",
+          "path": "/ministries/small-groups",
+          "body": {
+            "processed": "<p>Small Groups are the heartbeat of our church family. These intimate gatherings of 8-12 people meet weekly in homes throughout the community for Bible study, prayer, and fellowship. It is where real relationships are built and faith grows deep.</p><h2>Group Options</h2><ul><li>Couples groups</li><li>Men's and women's groups</li><li>Young adults (18-30)</li><li>Mixed groups for all ages</li></ul>",
+            "summary": "Small Groups are the heartbeat of our church family. These intimate gatherings of 8-12 people meet weekly in homes throughout the community for Bible study, prayer, and fellowship. It is where real re"
+          },
+          "ministryArea": [
+            {
+              "id": "small-groups",
+              "name": "small-groups"
+            }
+          ],
+          "leaderName": "Elder Board",
+          "meetingSchedule": "Various days and times",
+          "location": "Various homes throughout the community",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=800&q=80",
+            "alt": "Small Groups",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1529070538774-1843cb3265df?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/easter-celebration": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-easter",
+          "title": "Easter Celebration Service",
+          "path": "/events/easter-celebration",
+          "body": {
+            "processed": "<p>Join us for a special Easter celebration as we rejoice in the resurrection of Jesus Christ. This service features live music, a powerful message of hope, and activities for the whole family.</p><h2>Schedule</h2><ul><li>7:00 AM - Sunrise Service (outdoor amphitheater)</li><li>9:00 AM - Traditional Easter Service</li><li>11:00 AM - Contemporary Easter Service</li><li>10:00 AM - Easter Egg Hunt (children ages 2-10)</li></ul>",
+            "summary": "Join us for a special Easter celebration as we rejoice in the resurrection of Jesus Christ. This service features live music, a powerful message of hope, and activities for the whole family.Schedule7:"
+          },
+          "eventDate": {
+            "timestamp": 1775390400
+          },
+          "endDate": {
+            "timestamp": 1775410200
+          },
+          "location": "Main Sanctuary & Church Grounds",
+          "eventType": [
+            {
+              "id": "worship-service",
+              "name": "worship-service"
+            }
+          ],
+          "registrationUrl": "https://gracecommunity.church/easter",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1457282367193-e3b79e38f207?w=800&q=80",
+            "alt": "Easter Celebration Service",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1457282367193-e3b79e38f207?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1457282367193-e3b79e38f207?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1457282367193-e3b79e38f207?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/vacation-bible-school": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-vbs",
+          "title": "Vacation Bible School 2026",
+          "path": "/events/vacation-bible-school",
+          "body": {
+            "processed": "<p>An exciting week of Bible stories, games, crafts, and music for children ages 4-12. This year's theme, 'Explorers of Faith,' takes kids on an adventure through the Bible's greatest stories of courage and trust.</p><p>Registration is free and includes snacks, a t-shirt, and a take-home craft kit.</p>",
+            "summary": "An exciting week of Bible stories, games, crafts, and music for children ages 4-12. This year's theme, 'Explorers of Faith,' takes kids on an adventure through the Bible's greatest stories of courage "
+          },
+          "eventDate": {
+            "timestamp": 1781532000
+          },
+          "endDate": {
+            "timestamp": 1781888400
+          },
+          "location": "Children's Ministry Wing",
+          "eventType": [
+            {
+              "id": "youth-event",
+              "name": "youth-event"
+            }
+          ],
+          "registrationUrl": "https://gracecommunity.church/vbs",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80",
+            "alt": "Vacation Bible School 2026",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/community-dinner-fundraiser": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-fundraiser",
+          "title": "Community Dinner & Fundraiser",
+          "path": "/events/community-dinner-fundraiser",
+          "body": {
+            "processed": "<p>Join us for an evening of fellowship, delicious food, and giving back. This annual fundraiser supports our mission partners both locally and internationally. Enjoy a catered dinner, live music, and hear stories of how your generosity changes lives.</p><p>Tickets are $25 per person or $80 for a family of four.</p>",
+            "summary": "Join us for an evening of fellowship, delicious food, and giving back. This annual fundraiser supports our mission partners both locally and internationally. Enjoy a catered dinner, live music, and he"
+          },
+          "eventDate": {
+            "timestamp": 1778454000
+          },
+          "endDate": {
+            "timestamp": 1778464800
+          },
+          "location": "Fellowship Hall",
+          "eventType": [
+            {
+              "id": "fundraiser",
+              "name": "fundraiser"
+            }
+          ],
+          "registrationUrl": "https://gracecommunity.church/dinner",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+            "alt": "Community Dinner & Fundraiser",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/staff/pastor-james-mitchell": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeStaff",
+          "id": "staff-james",
+          "title": "Pastor James Mitchell",
+          "path": "/staff/pastor-james-mitchell",
+          "body": {
+            "processed": "<p>Pastor James has served as Senior Pastor at Grace Community Church for over 15 years. His passion for preaching and community building has helped the church grow into a vibrant, welcoming congregation. He holds a Master of Divinity from Fuller Theological Seminary.</p>",
+            "summary": "Pastor James has served as Senior Pastor at Grace Community Church for over 15 years. His passion for preaching and community building has helped the church grow into a vibrant, welcoming congregation"
+          },
+          "position": "Senior Pastor",
+          "email": "james@gracecommunity.church",
+          "phone": "(555) 100-2000",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+            "alt": "Pastor James Mitchell",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/staff/pastor-sarah-chen": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeStaff",
+          "id": "staff-sarah",
+          "title": "Pastor Sarah Chen",
+          "path": "/staff/pastor-sarah-chen",
+          "body": {
+            "processed": "<p>Pastor Sarah serves as Associate Pastor with a focus on pastoral care and spiritual formation. She is a gifted counselor and teacher, and her warmth and wisdom make her a beloved member of the church leadership team. She graduated from Gordon-Conwell Theological Seminary.</p>",
+            "summary": "Pastor Sarah serves as Associate Pastor with a focus on pastoral care and spiritual formation. She is a gifted counselor and teacher, and her warmth and wisdom make her a beloved member of the church "
+          },
+          "position": "Associate Pastor",
+          "email": "sarah@gracecommunity.church",
+          "phone": "(555) 100-2001",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+            "alt": "Pastor Sarah Chen",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/staff/pastor-mike-torres": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeStaff",
+          "id": "staff-mike",
+          "title": "Pastor Mike Torres",
+          "path": "/staff/pastor-mike-torres",
+          "body": {
+            "processed": "<p>Pastor Mike leads our dynamic Youth Ministry with energy and dedication. A former youth himself at Grace Community, he returned after seminary to pour into the next generation. His relatable teaching style and genuine care for students make him a trusted mentor.</p>",
+            "summary": "Pastor Mike leads our dynamic Youth Ministry with energy and dedication. A former youth himself at Grace Community, he returned after seminary to pour into the next generation. His relatable teaching "
+          },
+          "position": "Youth Pastor",
+          "email": "mike@gracecommunity.church",
+          "phone": "(555) 100-2002",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+            "alt": "Pastor Mike Torres",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/about": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-about",
+          "title": "About Grace Community Church",
+          "path": "/about",
+          "body": {
+            "processed": "<p>Grace Community Church was founded in 1950 with a simple mission: to share the love of God with our neighbors. What began as a small gathering of 30 families has grown into a thriving congregation of over 1,200 members, united by faith, hope, and love.</p><h2>Our Mission</h2><p>To glorify God by making disciples who love God, love people, and serve the world.</p><h2>Our Values</h2><ul><li><strong>Biblical Teaching</strong> - We are rooted in the truth of God's Word.</li><li><strong>Authentic Community</strong> - We build real relationships through small groups and service.</li><li><strong>Generous Living</strong> - We give freely of our time, talents, and resources.</li><li><strong>Global Impact</strong> - We support mission partners around the world.</li></ul><h2>What to Expect</h2><p>Whether you have attended church your whole life or this is your first time, you are welcome here. Our services blend traditional hymns with contemporary worship, and our pastors deliver practical, Bible-based messages relevant to everyday life.</p>",
+            "summary": "Grace Community Church was founded in 1950 with a simple mission: to share the love of God with our neighbors. What began as a small gathering of 30 families has grown into a thriving congregation of "
+          }
+        }
+      }
+    }
+  },
+  "/visit": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-visit",
+          "title": "Plan Your Visit",
+          "path": "/visit",
+          "body": {
+            "processed": "<h2>Service Times</h2><ul><li><strong>Sunday Morning:</strong> 9:00 AM (Traditional) and 11:00 AM (Contemporary)</li><li><strong>Wednesday Evening:</strong> 6:30 PM (Bible Study & Prayer)</li></ul><h2>What to Expect</h2><p>When you arrive, our greeters will welcome you at the door and help you find your way. Children's programs are available during both Sunday services for ages infant through 5th grade.</p><h2>Location</h2><p>Grace Community Church is located at 1234 Faith Avenue, Springfield. Free parking is available in our lot and on surrounding streets.</p><h2>Have Questions?</h2><p>We would love to hear from you! Call us at (555) 100-2000 or email info@gracecommunity.church.</p>",
+            "summary": "Service TimesSunday Morning: 9:00 AM (Traditional) and 11:00 AM (Contemporary)Wednesday Evening: 6:30 PM (Bible Study & Prayer)What to ExpectWhen you arrive, our greeters will welcome you at the door "
+          }
+        }
+      }
+    }
+  }
+}

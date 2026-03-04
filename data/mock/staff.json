@@ -1,0 +1,126 @@
+{
+  "data": {
+    "nodeStaffs": {
+      "__typename": "NodeStaffConnection",
+      "nodes": [
+        {
+          "__typename": "NodeStaff",
+          "id": "staff-james",
+          "title": "Pastor James Mitchell",
+          "path": "/staff/pastor-james-mitchell",
+          "body": {
+            "processed": "<p>Pastor James has served as Senior Pastor at Grace Community Church for over 15 years. His passion for preaching and community building has helped the church grow into a vibrant, welcoming congregation. He holds a Master of Divinity from Fuller Theological Seminary.</p>",
+            "summary": "Pastor James has served as Senior Pastor at Grace Community Church for over 15 years. His passion for preaching and community building has helped the church grow into a vibrant, welcoming congregation"
+          },
+          "position": "Senior Pastor",
+          "email": "james@gracecommunity.church",
+          "phone": "(555) 100-2000",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+            "alt": "Pastor James Mitchell",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeStaff",
+          "id": "staff-sarah",
+          "title": "Pastor Sarah Chen",
+          "path": "/staff/pastor-sarah-chen",
+          "body": {
+            "processed": "<p>Pastor Sarah serves as Associate Pastor with a focus on pastoral care and spiritual formation. She is a gifted counselor and teacher, and her warmth and wisdom make her a beloved member of the church leadership team. She graduated from Gordon-Conwell Theological Seminary.</p>",
+            "summary": "Pastor Sarah serves as Associate Pastor with a focus on pastoral care and spiritual formation. She is a gifted counselor and teacher, and her warmth and wisdom make her a beloved member of the church "
+          },
+          "position": "Associate Pastor",
+          "email": "sarah@gracecommunity.church",
+          "phone": "(555) 100-2001",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+            "alt": "Pastor Sarah Chen",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeStaff",
+          "id": "staff-mike",
+          "title": "Pastor Mike Torres",
+          "path": "/staff/pastor-mike-torres",
+          "body": {
+            "processed": "<p>Pastor Mike leads our dynamic Youth Ministry with energy and dedication. A former youth himself at Grace Community, he returned after seminary to pour into the next generation. His relatable teaching style and genuine care for students make him a trusted mentor.</p>",
+            "summary": "Pastor Mike leads our dynamic Youth Ministry with energy and dedication. A former youth himself at Grace Community, he returned after seminary to pour into the next generation. His relatable teaching "
+          },
+          "position": "Youth Pastor",
+          "email": "mike@gracecommunity.church",
+          "phone": "(555) 100-2002",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+            "alt": "Pastor Mike Torres",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

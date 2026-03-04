@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .line-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .line-clamp-3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+}
+
+@layer components {
+  .editorial-card {
+    @apply bg-white border-l-4 border-primary-600 shadow-sm hover:shadow-md transition-shadow duration-200;
+  }
+
+  .warm-page {
+    @apply bg-[#faf8f5] min-h-screen;
+  }
+
+  .warm-heading {
+    @apply font-serif text-gray-900;
+  }
+
+  .warm-section-heading {
+    @apply font-serif text-3xl md:text-4xl text-gray-900;
+  }
+
+  .decorative-line {
+    @apply w-24 h-0.5 bg-primary-600 mx-auto;
+  }
+}
