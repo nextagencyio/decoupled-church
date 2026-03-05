@@ -60,7 +60,7 @@ export default function Header() {
             </Link>
           ))}
           <Link
-            href="/contact"
+            href="/staff"
             className="text-sm tracking-wide uppercase px-5 py-2 border-2 border-primary-600 text-primary-700 rounded-full hover:bg-primary-600 hover:text-white transition-colors font-medium"
           >
             Contact Us
@@ -98,7 +98,7 @@ export default function Header() {
                 </Link>
               ))}
               <Link
-                href="/contact"
+                href="/staff"
                 onClick={() => setMobileMenuOpen(false)}
                 className="mx-4 mt-2 text-center text-sm tracking-wide uppercase px-5 py-3 border-2 border-primary-600 text-primary-700 rounded-full hover:bg-primary-600 hover:text-white transition-colors font-medium"
               >

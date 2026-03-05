@@ -23,7 +23,7 @@ export default function HeroSection({ homepageContent }: HeroSectionProps) {
         priority
         unoptimized
       />
-      <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-black/30 to-[#faf8f5]" />
+      <div className="absolute inset-0 bg-gradient-to-b from-black/75 via-black/60 to-black/65" />
 
       <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center py-20">
         <p className="text-accent-400 font-serif text-lg tracking-widest uppercase mb-6">
@@ -34,12 +34,12 @@ export default function HeroSection({ homepageContent }: HeroSectionProps) {
         </h1>
         <div className="w-24 h-0.5 bg-accent-400 mx-auto mb-8" />
         {subtitle && (
-          <p className="text-xl md:text-2xl text-gray-200 font-light mb-8 max-w-3xl mx-auto leading-relaxed">
+          <p className="text-xl md:text-2xl text-gray-100 font-light mb-8 max-w-3xl mx-auto leading-relaxed">
             {subtitle}
           </p>
         )}
         {description && (
-          <div className="text-lg text-gray-300 max-w-2xl mx-auto leading-relaxed mb-10" dangerouslySetInnerHTML={{ __html: description }} />
+          <div className="text-lg text-gray-100/90 max-w-2xl mx-auto leading-relaxed mb-10" dangerouslySetInnerHTML={{ __html: description }} />
         )}
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link
@@ -49,7 +49,7 @@ export default function HeroSection({ homepageContent }: HeroSectionProps) {
             Watch Sermons
           </Link>
           <Link
-            href="/contact"
+            href="/staff"
             className="inline-flex items-center justify-center px-8 py-4 border-2 border-white/70 text-white rounded-sm hover:bg-white/10 transition-colors font-semibold text-lg tracking-wide"
           >
             Plan Your Visit

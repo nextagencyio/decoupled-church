@@ -133,7 +133,7 @@ export default async function SermonDetailPage({ params }: PageProps) {
                 </dl>
                 <div className="mt-8">
                   <Link
-                    href="/contact"
+                    href="/staff"
                     className="block w-full text-center px-6 py-3 border-2 border-primary-600 text-primary-700 rounded-full font-medium hover:bg-primary-600 hover:text-white transition-colors"
                   >
                     Contact Us

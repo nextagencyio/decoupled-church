@@ -21,7 +21,7 @@ export default function CTASection({ homepageContent }: CTASectionProps) {
           <div className="text-gray-600 mb-10 max-w-2xl mx-auto leading-relaxed" dangerouslySetInnerHTML={{ __html: description }} />
         )}
         <div className="flex justify-center gap-4 flex-wrap">
-          <a href="/contact" className="px-8 py-3 border-2 border-primary-600 text-primary-700 rounded-full hover:bg-primary-600 hover:text-white transition-colors font-medium tracking-wide">
+          <a href="/staff" className="px-8 py-3 border-2 border-primary-600 text-primary-700 rounded-full hover:bg-primary-600 hover:text-white transition-colors font-medium tracking-wide">
             {primaryLabel}
           </a>
           <a href="/about" className="px-8 py-3 border-2 border-gray-300 text-gray-600 rounded-full hover:border-primary-600 hover:text-primary-700 transition-colors font-medium tracking-wide">
