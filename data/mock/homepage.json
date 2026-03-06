@@ -19,28 +19,28 @@
               "__typename": "ParagraphStatItem",
               "id": "stat-members",
               "title": "",
-              "number": "1,200+",
+              "number": "1,200+", "value": "1,200+",
               "label": "Church Members"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-ministries",
               "title": "",
-              "number": "25+",
+              "number": "25+", "value": "25+",
               "label": "Active Ministries"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-years",
               "title": "",
-              "number": "75+",
+              "number": "75+", "value": "75+",
               "label": "Years of Service"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-outreach",
               "title": "",
-              "number": "5,000+",
+              "number": "5,000+", "value": "5,000+",
               "label": "Lives Touched Annually"
             }
           ],
