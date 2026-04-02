@@ -1,4 +1,5 @@
-import { gql } from '@apollo/client'
+// Tagged template that returns the query string
+const gql = (strings: TemplateStringsArray, ...values: any[]) => strings.reduce((a, s, i) => a + s + (values[i] || ''), '')
 
 // Homepage query
 export const GET_HOMEPAGE_DATA = gql`
