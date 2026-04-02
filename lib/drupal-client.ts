@@ -88,7 +88,46 @@ export function getClient(): TypedClient {
           query ($path: String!) {
             route(path: $path) {
               ... on RouteInternal {
-                entity { ... on NodePage { __typename id title path body { processed } } }
+                entity {
+                  ... on NodePage { __typename id title path body { processed } }
+                  ... on NodeHomepage {
+                    __typename id title path
+                    heroTitle heroSubtitle
+                    heroDescription { processed }
+                    statsItems { ... on ParagraphStatItem { id number label } }
+                    featuredSermonsTitle
+                    ctaTitle ctaDescription { processed } ctaPrimary ctaSecondary
+                  }
+                  ... on NodeSermon {
+                    __typename id title path
+                    body { processed }
+                    sermonSeries { ... on TermInterface { id name } }
+                    sermonDate { timestamp }
+                    speaker videoUrl audioUrl
+                    image { url alt width height }
+                  }
+                  ... on NodeMinistry {
+                    __typename id title path
+                    body { processed }
+                    ministryArea { ... on TermInterface { id name } }
+                    leaderName meetingSchedule location
+                    image { url alt width height }
+                  }
+                  ... on NodeEvent {
+                    __typename id title path
+                    body { processed }
+                    eventDate { timestamp } endDate { timestamp }
+                    location registrationUrl
+                    eventType { ... on TermInterface { id name } }
+                    image { url alt width height }
+                  }
+                  ... on NodeStaff {
+                    __typename id title path
+                    body { processed }
+                    position email phone
+                    photo { url alt width height }
+                  }
+                }
               }
             }
           }

@@ -62,7 +62,7 @@ export function handleMockQuery(body: string): any {
       return loadMockData('events.json')
     }
 
-    if (query.includes('GetStaffs') || query.includes('nodeStaffs')) {
+    if (query.includes('GetStaff') || query.includes('nodeStaffItems') || query.includes('nodeStaffs')) {
       return loadMockData('staff.json')
     }
 

@@ -89,3 +89,10 @@ storybook-static
 # Temporary folders
 tmp/
 temp/
+
+# Playwright
+/test-results/
+/playwright-report/
+
+# OpenNext
+.open-next/

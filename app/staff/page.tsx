@@ -17,7 +17,7 @@ async function getStaffs() {
   try {
     const client = getClient()
     const data = await client.raw(GET_STAFF, { first: 50 })
-    return data?.nodeStaffs?.nodes || []
+    return data?.nodeStaffItems?.nodes || []
   } catch (error) {
     console.error('Error fetching staffs:', error)
     return []
