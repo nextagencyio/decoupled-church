@@ -24,7 +24,7 @@ interface MinistryByPathData {
 async function getMinistry(path: string): Promise<DrupalMinistry | null> {
   try {
     const client = getClient()
-    const { data } = await client.raw(GET_MINISTRY_BY_PATH, { path })
+    const data = await client.raw(GET_MINISTRY_BY_PATH, { path })
     return data?.route?.entity || null
   } catch (error) {
     console.error('Error fetching ministry:', error)

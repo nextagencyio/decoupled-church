@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 async function getSermons() {
   try {
     const client = getClient()
-    const { data } = await client.raw(GET_SERMONS, { first: 50 })
+    const data = await client.raw(GET_SERMONS, { first: 50 })
     return data?.nodeSermons?.nodes || []
   } catch (error) {
     console.error('Error fetching sermons:', error)
@@ -56,7 +56,7 @@ export default async function SermonsPage() {
             </div>
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {items.map((item) => (
+              {items.map((item: any) => (
                 <SermonCard key={item.id} item={item} />
               ))}
             </div>
